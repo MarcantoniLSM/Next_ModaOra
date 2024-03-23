@@ -1,0 +1,23 @@
+.section2{
+    background-color: #003D52;
+    background-image: url('../../../../public/imagens/bg_detalhe.png');
+    height: 100vh;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding: 6rem;
+    color: azure;
+}
+
+.section2 h1{
+    font-size: 6rem;
+    padding-bottom: 6rem;
+    font-weight: 300;
+}
+
+.section2 p{
+    font-size: 1.6rem;
+    width: 60%;
+    word-spacing: 0.1rem;
+    letter-spacing: 0.05em;
+}

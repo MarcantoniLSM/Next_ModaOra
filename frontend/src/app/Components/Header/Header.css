@@ -1,0 +1,34 @@
+.navBar{
+    background-color: #162028;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 16rem;
+    padding-right: 0.5rem;
+}
+
+.navBar span{
+    color: azure;
+    font-size: xx-large;
+}
+
+.navBar ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.navBar ul li{
+    padding-left: 4rem;
+}
+
+.navBar a{
+    text-decoration: none;
+    color: #425564;
+    font-size: larger;
+}
+
+.header img{
+    width: 100%;
+}
